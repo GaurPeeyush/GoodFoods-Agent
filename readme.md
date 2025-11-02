@@ -15,16 +15,17 @@ GoodFoods is a conversational AI that helps users discover restaurants and book 
 
 ## Sample Converstions
 ### Insufficient information
-<img width="1704" height="836" alt="Screenshot 2025-11-02 at 10 04 10 PM" src="https://github.com/user-attachments/assets/044ee91f-5032-447e-8614-40937abe33a8" />
+<img width="1704" height="836" alt="Screenshot 2025-11-02 at 10 04 10 PM" src="https://github.com/user-attachments/assets/5a55ff7e-0088-402e-bda9-5c021c653e5b" />
 
 ### Cuisine based
-<img width="1704" height="1006" alt="Screenshot 2025-11-02 at 10 02 04 PM" src="https://github.com/user-attachments/assets/af3a7f8f-cecd-499f-8514-b3cc1bfff6f3" />
+<img width="1704" height="1006" alt="Screenshot 2025-11-02 at 10 02 04 PM" src="https://github.com/user-attachments/assets/75891c43-a24a-44f4-82a2-f1b17ffc6cf1" />
 
 ### Incorrect information
-<img width="1386" height="918" alt="Screenshot 2025-11-02 at 10 17 41 PM" src="https://github.com/user-attachments/assets/c00b1d9c-358f-462f-a11a-11e850c505ec" />
+<img width="1386" height="918" alt="Screenshot 2025-11-02 at 10 17 41 PM" src="https://github.com/user-attachments/assets/a7d52be9-9a6a-44fd-99cb-fb87de25e2d0" />
 
 ### Guardrail (Max party size check)
-<img width="1389" height="918" alt="Screenshot 2025-11-02 at 10 05 28 PM" src="https://github.com/user-attachments/assets/3272b4f8-fd54-4085-8341-2cc14c330df6" />
+<img width="1389" height="918" alt="Screenshot 2025-11-02 at 10 05 28 PM" src="https://github.com/user-attachments/assets/790df4b6-122a-48dc-803c-d99efc330834" />
+
 
 ### Setup Instructions
 1) Python 3.9+ recommended
