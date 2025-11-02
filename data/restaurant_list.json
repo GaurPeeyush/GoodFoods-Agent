@@ -1,0 +1,542 @@
+[
+  {
+    "restaurant_id": "r001",
+    "name": "GoodFoods MG Road",
+    "location": {
+      "address": "123 MG Road, Bangalore",
+      "landmark": "Near Cubbon Park"
+    },
+    "cuisine": ["Italian", "Mediterranean"],
+    "operating_hours": {
+      "open": "11:00",
+      "close": "23:00",
+      "display": "11:00 AM - 11:00 PM"
+    },
+    "phone": "080-12345678",
+    "restaurant_max_seating_capacity": 50,
+    "max_booking_party_size": 8,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r002",
+    "name": "GoodFoods Indiranagar",
+    "location": {
+      "address": "456 100 Feet Road, Indiranagar, Bangalore",
+      "landmark": "Near Indiranagar Metro Station"
+    },
+    "cuisine": ["Asian", "Fusion"],
+    "operating_hours": {
+      "open": "10:00",
+      "close": "22:00",
+      "display": "10:00 AM - 10:00 PM"
+    },
+    "phone": "080-23456789",
+    "restaurant_max_seating_capacity": 40,
+    "max_booking_party_size": 6,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+  },
+  {
+    "restaurant_id": "r003",
+    "name": "GoodFoods Brigade",
+    "location": {
+      "address": "789 Brigade Road, Bangalore",
+      "landmark": "Near Brigade Road Mall"
+    },
+    "cuisine": ["American", "Steakhouse"],
+    "operating_hours": {
+      "open": "12:00",
+      "close": "24:00",
+      "display": "12:00 PM - 12:00 AM"
+    },
+    "phone": "080-34567890",
+    "restaurant_max_seating_capacity": 100,
+    "max_booking_party_size": 10,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r004",
+    "name": "GoodFoods Koramangala",
+    "location": {
+      "address": "42 80 Feet Road, Koramangala, Bangalore",
+      "landmark": "Next to Forum Mall"
+    },
+    "cuisine": ["South Indian", "North Indian"],
+    "operating_hours": {
+      "open": "07:00",
+      "close": "22:30",
+      "display": "7:00 AM - 10:30 PM"
+    },
+    "phone": "080-45678901",
+    "restaurant_max_seating_capacity": 75,
+    "max_booking_party_size": 12,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r005",
+    "name": "GoodFoods Whitefield",
+    "location": {
+      "address": "567 Whitefield Main Road, Bangalore",
+      "landmark": "Opposite Phoenix Mall"
+    },
+    "cuisine": ["Continental", "European"],
+    "operating_hours": {
+      "open": "11:30",
+      "close": "23:30",
+      "display": "11:30 AM - 11:30 PM"
+    },
+    "phone": "080-56789012",
+    "restaurant_max_seating_capacity": 60,
+    "max_booking_party_size": 8,
+    "operating_days": ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r006",
+    "name": "GoodFoods HSR Layout",
+    "location": {
+      "address": "234 27th Main, HSR Layout, Bangalore",
+      "landmark": "Near BDA Complex"
+    },
+    "cuisine": ["Chinese", "Thai"],
+    "operating_hours": {
+      "open": "11:00",
+      "close": "22:00",
+      "display": "11:00 AM - 10:00 PM"
+    },
+    "phone": "080-67890123",
+    "restaurant_max_seating_capacity": 45,
+    "max_booking_party_size": 6,
+    "operating_days": ["Monday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r007",
+    "name": "GoodFoods JP Nagar",
+    "location": {
+      "address": "789 15th Cross, JP Nagar, Bangalore",
+      "landmark": "Near Shoppers Stop"
+    },
+    "cuisine": ["Mughlai", "North Indian"],
+    "operating_hours": {
+      "open": "12:30",
+      "close": "23:00",
+      "display": "12:30 PM - 11:00 PM"
+    },
+    "phone": "080-78901234",
+    "restaurant_max_seating_capacity": 55,
+    "max_booking_party_size": 8,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+  },
+  {
+    "restaurant_id": "r008",
+    "name": "GoodFoods Jayanagar",
+    "location": {
+      "address": "123 11th Main, Jayanagar 4th Block, Bangalore",
+      "landmark": "Next to Cool Joint"
+    },
+    "cuisine": ["South Indian", "Bengali"],
+    "operating_hours": {
+      "open": "08:00",
+      "close": "22:00",
+      "display": "8:00 AM - 10:00 PM"
+    },
+    "phone": "080-89012345",
+    "restaurant_max_seating_capacity": 80,
+    "max_booking_party_size": 15,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r009",
+    "name": "GoodFoods Electronic City",
+    "location": {
+      "address": "456 Electronic City Phase 1, Bangalore",
+      "landmark": "Near Infosys Campus"
+    },
+    "cuisine": ["Multi-Cuisine", "Buffet"],
+    "operating_hours": {
+      "open": "11:00",
+      "close": "23:00",
+      "display": "11:00 AM - 11:00 PM"
+    },
+    "phone": "080-90123456",
+    "restaurant_max_seating_capacity": 120,
+    "max_booking_party_size": 20,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r010",
+    "name": "GoodFoods Malleshwaram",
+    "location": {
+      "address": "789 8th Cross, Malleshwaram, Bangalore",
+      "landmark": "Near Mantri Square Mall"
+    },
+    "cuisine": ["Traditional Karnataka", "South Indian"],
+    "operating_hours": {
+      "open": "07:30",
+      "close": "22:30",
+      "display": "7:30 AM - 10:30 PM"
+    },
+    "phone": "080-01234567",
+    "restaurant_max_seating_capacity": 50,
+    "max_booking_party_size": 8,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r011",
+    "name": "GoodFoods Yelahanka",
+    "location": {
+      "address": "234 Yelahanka New Town, Bangalore",
+      "landmark": "Opposite Kendriya Vihar"
+    },
+    "cuisine": ["North Indian", "Chinese"],
+    "operating_hours": {
+      "open": "11:00",
+      "close": "22:30",
+      "display": "11:00 AM - 10:30 PM"
+    },
+    "phone": "080-12345098",
+    "restaurant_max_seating_capacity": 60,
+    "max_booking_party_size": 10,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r012",
+    "name": "GoodFoods Bannerghatta Road",
+    "location": {
+      "address": "567 Bannerghatta Main Road, Bangalore",
+      "landmark": "Near IIM Bangalore"
+    },
+    "cuisine": ["Mexican", "Italian"],
+    "operating_hours": {
+      "open": "12:00",
+      "close": "23:30",
+      "display": "12:00 PM - 11:30 PM"
+    },
+    "phone": "080-23450987",
+    "restaurant_max_seating_capacity": 70,
+    "max_booking_party_size": 10,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r013",
+    "name": "GoodFoods Marathahalli",
+    "location": {
+      "address": "890 Outer Ring Road, Marathahalli, Bangalore",
+      "landmark": "Near Innovative Multiplex"
+    },
+    "cuisine": ["Coastal", "Seafood"],
+    "operating_hours": {
+      "open": "11:30",
+      "close": "23:00",
+      "display": "11:30 AM - 11:00 PM"
+    },
+    "phone": "080-34509876",
+    "restaurant_max_seating_capacity": 55,
+    "max_booking_party_size": 8,
+    "operating_days": ["Monday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r014",
+    "name": "GoodFoods Basavanagudi",
+    "location": {
+      "address": "123 DVG Road, Basavanagudi, Bangalore",
+      "landmark": "Near Bull Temple"
+    },
+    "cuisine": ["South Indian", "Karnataka"],
+    "operating_hours": {
+      "open": "06:30",
+      "close": "22:00",
+      "display": "6:30 AM - 10:00 PM"
+    },
+    "phone": "080-45098765",
+    "restaurant_max_seating_capacity": 60,
+    "max_booking_party_size": 12,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r015",
+    "name": "GoodFoods Hebbal",
+    "location": {
+      "address": "456 Bellary Road, Hebbal, Bangalore",
+      "landmark": "Near Manyata Tech Park"
+    },
+    "cuisine": ["Asian", "Japanese"],
+    "operating_hours": {
+      "open": "12:00",
+      "close": "23:00",
+      "display": "12:00 PM - 11:00 PM"
+    },
+    "phone": "080-50987654",
+    "restaurant_max_seating_capacity": 70,
+    "max_booking_party_size": 8,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+  },
+  {
+    "restaurant_id": "r016",
+    "name": "GoodFoods BTM Layout",
+    "location": {
+      "address": "789 29th Main, BTM Layout, Bangalore",
+      "landmark": "Next to Udupi Garden"
+    },
+    "cuisine": ["Kerala", "South Indian"],
+    "operating_hours": {
+      "open": "08:00",
+      "close": "22:30",
+      "display": "8:00 AM - 10:30 PM"
+    },
+    "phone": "080-09876543",
+    "restaurant_max_seating_capacity": 50,
+    "max_booking_party_size": 10,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r017",
+    "name": "GoodFoods Sarjapur Road",
+    "location": {
+      "address": "234 Sarjapur Main Road, Bangalore",
+      "landmark": "Near Wipro Corporate Office"
+    },
+    "cuisine": ["Continental", "Mediterranean"],
+    "operating_hours": {
+      "open": "11:00",
+      "close": "23:30",
+      "display": "11:00 AM - 11:30 PM"
+    },
+    "phone": "080-98765432",
+    "restaurant_max_seating_capacity": 80,
+    "max_booking_party_size": 12,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r018",
+    "name": "GoodFoods Rajajinagar",
+    "location": {
+      "address": "567 Chord Road, Rajajinagar, Bangalore",
+      "landmark": "Next to Orion Mall"
+    },
+    "cuisine": ["North Indian", "Punjabi"],
+    "operating_hours": {
+      "open": "11:30",
+      "close": "23:00",
+      "display": "11:30 AM - 11:00 PM"
+    },
+    "phone": "080-87654321",
+    "restaurant_max_seating_capacity": 65,
+    "max_booking_party_size": 8,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r019",
+    "name": "GoodFoods Residency Road",
+    "location": {
+      "address": "890 Residency Road, Bangalore",
+      "landmark": "Beside Galaxy Theatre"
+    },
+    "cuisine": ["Italian", "French"],
+    "operating_hours": {
+      "open": "12:30",
+      "close": "23:45",
+      "display": "12:30 PM - 11:45 PM"
+    },
+    "phone": "080-76543210",
+    "restaurant_max_seating_capacity": 45,
+    "max_booking_party_size": 6,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+  },
+  {
+    "restaurant_id": "r020",
+    "name": "GoodFoods Richmond Town",
+    "location": {
+      "address": "123 Richmond Road, Bangalore",
+      "landmark": "Near Baldwin Girls School"
+    },
+    "cuisine": ["Continental", "English Breakfast"],
+    "operating_hours": {
+      "open": "07:00",
+      "close": "23:00",
+      "display": "7:00 AM - 11:00 PM"
+    },
+    "phone": "080-65432109",
+    "restaurant_max_seating_capacity": 40,
+    "max_booking_party_size": 8,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r021",
+    "name": "GoodFoods Cunningham Road",
+    "location": {
+      "address": "456 Cunningham Road, Bangalore",
+      "landmark": "Near Bowring Institute"
+    },
+    "cuisine": ["European", "Fine Dining"],
+    "operating_hours": {
+      "open": "12:00",
+      "close": "23:30",
+      "display": "12:00 PM - 11:30 PM"
+    },
+    "phone": "080-54321098",
+    "restaurant_max_seating_capacity": 55,
+    "max_booking_party_size": 8,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+  },
+  {
+    "restaurant_id": "r022",
+    "name": "GoodFoods Church Street",
+    "location": {
+      "address": "789 Church Street, Bangalore",
+      "landmark": "Near Blossoms Book House"
+    },
+    "cuisine": ["Café", "Bakery"],
+    "operating_hours": {
+      "open": "08:30",
+      "close": "22:30",
+      "display": "8:30 AM - 10:30 PM"
+    },
+    "phone": "080-43210987",
+    "restaurant_max_seating_capacity": 30,
+    "max_booking_party_size": 6,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r023",
+    "name": "GoodFoods Commercial Street",
+    "location": {
+      "address": "234 Commercial Street, Bangalore",
+      "landmark": "Near Unity Building"
+    },
+    "cuisine": ["Street Food", "Chaat"],
+    "operating_hours": {
+      "open": "11:00",
+      "close": "22:00",
+      "display": "11:00 AM - 10:00 PM"
+    },
+    "phone": "080-32109876",
+    "restaurant_max_seating_capacity": 35,
+    "max_booking_party_size": 6,
+    "operating_days": ["Monday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r024",
+    "name": "GoodFoods Bellandur",
+    "location": {
+      "address": "567 Bellandur Main Road, Bangalore",
+      "landmark": "Next to Central Mall"
+    },
+    "cuisine": ["North Indian", "Biryani"],
+    "operating_hours": {
+      "open": "11:00",
+      "close": "23:00",
+      "display": "11:00 AM - 11:00 PM"
+    },
+    "phone": "080-21098765",
+    "restaurant_max_seating_capacity": 75,
+    "max_booking_party_size": 10,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r025",
+    "name": "GoodFoods CV Raman Nagar",
+    "location": {
+      "address": "890 CV Raman Nagar Main Road, Bangalore",
+      "landmark": "Near DRDO Complex"
+    },
+    "cuisine": ["Bengali", "East Indian"],
+    "operating_hours": {
+      "open": "12:00",
+      "close": "22:30",
+      "display": "12:00 PM - 10:30 PM"
+    },
+    "phone": "080-10987654",
+    "restaurant_max_seating_capacity": 40,
+    "max_booking_party_size": 8,
+    "operating_days": ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r026",
+    "name": "GoodFoods Frazer Town",
+    "location": {
+      "address": "123 MM Road, Frazer Town, Bangalore",
+      "landmark": "Near Shangri-La Hotel"
+    },
+    "cuisine": ["Mughlai", "Kebabs"],
+    "operating_hours": {
+      "open": "13:00",
+      "close": "23:30",
+      "display": "1:00 PM - 11:30 PM"
+    },
+    "phone": "080-09876321",
+    "restaurant_max_seating_capacity": 50,
+    "max_booking_party_size": 8,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r027",
+    "name": "GoodFoods Kammanahalli",
+    "location": {
+      "address": "456 5th Main, Kammanahalli, Bangalore",
+      "landmark": "Near Bethel AG Church"
+    },
+    "cuisine": ["Middle Eastern", "Lebanese"],
+    "operating_hours": {
+      "open": "11:30",
+      "close": "23:00",
+      "display": "11:30 AM - 11:00 PM"
+    },
+    "phone": "080-98764321",
+    "restaurant_max_seating_capacity": 45,
+    "max_booking_party_size": 8,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r028",
+    "name": "GoodFoods Banashankari",
+    "location": {
+      "address": "789 Banashankari 3rd Stage, Bangalore",
+      "landmark": "Near BDA Complex"
+    },
+    "cuisine": ["South Indian", "Andhra"],
+    "operating_hours": {
+      "open": "07:30",
+      "close": "22:00",
+      "display": "7:30 AM - 10:00 PM"
+    },
+    "phone": "080-87654123",
+    "restaurant_max_seating_capacity": 60,
+    "max_booking_party_size": 10,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  },
+  {
+    "restaurant_id": "r029",
+    "name": "GoodFoods Domlur",
+    "location": {
+      "address": "234 Inner Ring Road, Domlur, Bangalore",
+      "landmark": "Near Dell Office"
+    },
+    "cuisine": ["Healthy", "Organic"],
+    "operating_hours": {
+      "open": "08:00",
+      "close": "21:00",
+      "display": "8:00 AM - 9:00 PM"
+    },
+    "phone": "080-76543912",
+    "restaurant_max_seating_capacity": 35,
+    "max_booking_party_size": 6,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+  },
+  {
+    "restaurant_id": "r030",
+    "name": "GoodFoods Silk Board",
+    "location": {
+      "address": "567 BTM-Madiwala Link Road, Bangalore",
+      "landmark": "Near Silk Board Junction"
+    },
+    "cuisine": ["Multi-Cuisine", "Fast Food"],
+    "operating_hours": {
+      "open": "10:00",
+      "close": "24:00",
+      "display": "10:00 AM - 12:00 AM"
+    },
+    "phone": "080-65432178",
+    "restaurant_max_seating_capacity": 80,
+    "max_booking_party_size": 12,
+    "operating_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+  }
+]
